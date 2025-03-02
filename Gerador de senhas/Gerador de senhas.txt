@@ -1,0 +1,5 @@
+O gerador senhas é uma das minhas praticas no python para aprimorar meus conhecimentos sobre a linguagem.
+
+Este programa foi criado para gerar senhas mais seguras, ideais para sites como Gmail, Hotmail e outros. 
+Você pode usar a senha gerada ou personalizá-la conforme suas preferências, mantendo sua força original. 
+Dessa forma, sua conta estará mais protegida e segura contra possíveis invasões. Não se esqueça de testar a senha no site de verificação!
