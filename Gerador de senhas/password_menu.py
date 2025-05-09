@@ -41,7 +41,7 @@ def copiar_senha():
 
 
 def site_senha():
-    webbrowser.open('https://password.kaspersky.com/pt/')
+    webbrowser.open('https://bitwarden.com/password-strength/')
 
 
 def descricao():
